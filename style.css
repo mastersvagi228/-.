@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    background-color:#cf0404;
+    text-align: center
+}
+
+header,p,main,footer,a {
+    background-color:darkred;
+    color:orange;
+    text-align: center;
+    font-size: 25px
+}
+
+main {
+    background-color: darkred
+}
